@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Reloj
+    class Radio
     {
-
     }
 }
